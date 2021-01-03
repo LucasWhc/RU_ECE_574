@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{bi_mul}
+Binary multiplier, 2020.
+\newblock \url{https://en.wikipedia.org/wiki/Binary_multiplier}.
+
+\bibitem{bo_en}
+Booth's multiplication algorithm, 2020.
+\newblock
+  \url{https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm}.
+
+\bibitem{booth1951signed}
+A.~D. Booth.
+\newblock A signed binary multiplication technique.
+\newblock {\em The Quarterly Journal of Mechanics and Applied Mathematics},
+  4(2):236--240, 1951.
+
+\bibitem{chandel2013booth}
+D.~Chandel, G.~Kumawat, P.~Lahoty, V.~V. Chandrodaya, and S.~Sharma.
+\newblock Booth multiplier: Ease of multiplication.
+\newblock {\em International Journal of Emerging Technology and Advanced
+  Engineering}, 3(3):118--122, 2013.
+
+\bibitem{deng2015synchronous}
+E.~Deng, Y.~Zhang, W.~Kang, B.~Dieny, J.-O. Klein, G.~Prenat, and W.~Zhao.
+\newblock Synchronous 8-bit non-volatile full-adder based on spin transfer
+  torque magnetic tunnel junction.
+\newblock {\em IEEE Transactions on Circuits and Systems I: Regular Papers},
+  62(7):1757--1765, 2015.
+
+\bibitem{manalo12}
+I.~E.~L. Manalo, E.~R.~Q. Montecillo, D.~S. Colinares, J.~D.~L. Lingat, and
+  R.~B. Caldo.
+\newblock 12-bit verilog calculator with trigonometric functions.
+
+\end{thebibliography}

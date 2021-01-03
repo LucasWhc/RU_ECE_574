@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: article_2.aux
+The style file: abbrv.bst
+Database file #1: bib.bib
+Warning--string name "“wikipedia”" is undefined
+--line 37 of file bib.bib
+Warning--string name "“website”" is undefined
+--line 39 of file bib.bib
+Warning--string name "“wikipedia”" is undefined
+--line 53 of file bib.bib
+Warning--string name "“website”" is undefined
+--line 55 of file bib.bib
+Warning--to sort, need author or key in bi_mul
+Warning--to sort, need author or key in bo_en
+Warning--empty journal in manalo12
+Warning--empty year in manalo12
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            529 strings with 4819 characters,
+and the built_in function-call counts, 1901 in all, are:
+= -- 176
+> -- 103
+< -- 0
++ -- 43
+- -- 36
+* -- 152
+:= -- 312
+add.period$ -- 15
+call.type$ -- 6
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 57
+empty$ -- 147
+format.name$ -- 36
+if$ -- 382
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 4
+newline$ -- 30
+num.names$ -- 8
+pop$ -- 46
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 41
+stack$ -- 0
+substring$ -- 112
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 4
+while$ -- 14
+width$ -- 7
+write$ -- 58
+(There were 8 warnings)
